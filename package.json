@@ -4,11 +4,11 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@biomejs/biome": "2.0.6",
-    "@types/bun": "latest"
+    "@biomejs/biome": "2.1.1",
+    "@types/bun": "^1.2.18"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.8.3"
   },
   "dependencies": {
     "reflect-metadata": "^0.2.2",
