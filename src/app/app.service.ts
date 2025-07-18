@@ -1,7 +1,7 @@
 import { Service } from "typedi";
 
 // Remember to not use `import type` here, as it will not work.
-import { ExampleService } from "../example/example.service";
+import { ExampleService } from "@/example/example.service";
 
 @Service()
 export class AppService {

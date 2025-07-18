@@ -18,6 +18,9 @@
 			"recommended": true,
 			"style": {
 				"useImportType": "off"
+			},
+			"correctness": {
+				"noUnusedPrivateClassMembers": "off"
 			}
 		}
 	},
